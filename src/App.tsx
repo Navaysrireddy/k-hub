@@ -51,7 +51,7 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto px-6 lg:px-12">
         <div className="flex justify-between items-center">
           <div className="flex items-center gap-2 group cursor-pointer">
-            <img src="/Logo.png" alt="K-HUB Logo" className="h-10 w-auto" referrerPolicy="no-referrer" />
+            <img src="../Logo.png" alt="K-HUB Logo" className="h-10 w-auto" referrerPolicy="no-referrer" />
           </div>
           
           <div className="hidden md:block">
@@ -722,7 +722,7 @@ const Footer = () => (
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-16 mb-20">
         <div className="space-y-8">
           <div className="flex items-center gap-3">
-            <img src="/Logo.png" alt="K-HUB Logo" className="h-10 w-auto " referrerPolicy="no-referrer" />
+            <img src="../Logo.png" alt="K-HUB Logo" className="h-10 w-auto " referrerPolicy="no-referrer" />
           </div>
           <p className="text-white/40 leading-relaxed font-medium">
             Empowering communities through digital infrastructure and education. Join the revolution.
